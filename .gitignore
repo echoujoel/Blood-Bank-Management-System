@@ -1,0 +1,5 @@
+# Local donor records and Python-generated files
+donors.db
+__pycache__/
+*.py[cod]
+
